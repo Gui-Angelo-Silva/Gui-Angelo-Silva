@@ -1,7 +1,7 @@
 ## Bem vindo! Eu sou Guilherme Angelo.
 
 - 👨‍🎓 Sou formado no curso de Desenvolvimento de Sistemas na ETEC Jales.
-- Em graduação na FATEC Jales, no curso Análise e Desenvolvimento de Sistemas - AMS.
+- Cursando Análise e Desenvolvimento de Sistemas - AMS na FATEC Jales.
 - 🧑‍💻 Gostaria de atuar na área de desenvolvimento de software.
 
 <div align="center">
