@@ -7,30 +7,22 @@
 
 ![Capa](https://github.com/Gui-Angelo-Silva/Gui-Angelo-Silva/assets/100084412/24e2d9a1-2b35-4b72-ba07-b53856a66833)
 
-<p align="left" >
+<p align="left" style="font-size: 30">
   👨🏽‍🎓 Sou formado em Desenvolvimento de Sistemas na ETEC Jales.
 </p>
-<p align="left" >
+<p align="left" style="font-size: 30">
   👨🏽‍💻 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas - AMS na FATEC Jales.
 </p>
-<p align="left" >
+<p align="left" style="font-size: 30">
   👨‍💻 Dedico meu tempo livre para aprender coisass novas, sobre programação, história e tecnologias novas utilizadas no mercado atualmente.
 </p>
 <br />
-
-## GitHub Status
-
-<div align="center">
-  <a href="https://github.com/Gui-Angelo-Silva/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gui-Angelo-Silva&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui-Angelo-Silva&layout=compact&langs_count=7&theme=transparent&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/>
-</div>
     
-##
-<div align="center"><h3>Tecnologias e Ferramentas</h3></div>
+<div align="center"><h2>Tecnologias e Ferramentas</h2></div>
+
 <div align="center">
 <div style="display: inline_block">
-  <img align="center" alt="David-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="React logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Js logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -38,11 +30,23 @@
 </div>
 </div>
 
-##
-<div align="center"><h3>Contato</h3></div>
+<br />
+
+<div align="center"><h2>Contato</h2></div>
+
 <div align="center" style="display: inline_block"> 
   <a href="https://www.linkedin.com/in/guilherme-angelo-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href = "mailto:guilherme.angeloetec20@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23E60023?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+<br />
+
+<div align="center"><h2>GitHub Status</h2></div>
+
+<div align="center">
+  <a href="https://github.com/Gui-Angelo-Silva/">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gui-Angelo-Silva&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&icon_color=773046&hide_border=true&border_radius=15&bg_color=0d1117&title_color=773046&text_color=8b838d"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui-Angelo-Silva&layout=compact&langs_count=7&theme=transparent&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117&title_color=773046&text_color=8b838d"/>
 </div>
 
 ![Snake animation](https://github.com/Gui-Angelo-Silva/Gui-Angelo-Silva/blob/output/github-contribution-grid-snake.svg)
