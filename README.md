@@ -1,9 +1,12 @@
-![Inserir um título](https://github.com/Gui-Angelo-Silva/Gui-Angelo-Silva/assets/100084412/2ca886ca-f701-4695-8319-138f946c8580)
+<!--![Inserir um título](https://github.com/Gui-Angelo-Silva/Gui-Angelo-Silva/assets/100084412/2ca886ca-f701-4695-8319-138f946c8580)
 
 <!--<div align="left"><h1>Bem vindo(a)! Eu sou Guilherme Angelo.</h1></div> 
 
 <img width="350" src="https://ouch-cdn2.icons8.com/vZD-nOO0-rKGloPBW0WjLQF-i8hfkpa7QWY_3L4YTGA/rs:fit:684:456/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvMzAx/L2Y1ZWI5ZGEwLTM3/ZWMtNDUxYy1iODNl/LTVjMzc1NGU5NjQx/NC5zdmc.png" align="right">
 -->
+
+![Capa](https://github.com/Gui-Angelo-Silva/Gui-Angelo-Silva/assets/100084412/24e2d9a1-2b35-4b72-ba07-b53856a66833)
+
 <p align="left" >
   👨🏽‍🎓 Sou formado em Desenvolvimento de Sistemas na ETEC Jales.
 </p>
