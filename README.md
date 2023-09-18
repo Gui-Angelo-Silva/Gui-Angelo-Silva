@@ -16,10 +16,21 @@
 <p align="left" style="font-size: 40">
   👨‍💻 Dedico meu tempo livre para aprender coisass novas, sobre programação, história e tecnologias novas utilizadas no mercado atualmente.
 </p>
-    
-<div align="center"><h2>Tecnologias e Ferramentas</h2></div>
+<br />
 
-<div align="center">
+<!---<div align="center"><h2>Tecnologias e Ferramentas</h2></div>-->
+
+## GitHub Status
+
+<div align="left">
+  <a href="https://github.com/Gui-Angelo-Silva/">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gui-Angelo-Silva&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&icon_color=773046&hide_border=true&border_radius=15&bg_color=0d1117&title_color=773046&text_color=8b838d"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui-Angelo-Silva&layout=compact&langs_count=7&theme=transparent&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117&title_color=773046&text_color=8b838d"/>
+</div>
+
+## Tecnologias e Ferramentas
+
+<div align="left">
 <div style="display: inline_block">
   <img align="center" alt="React logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Js logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -31,21 +42,17 @@
 
 <br />
 
-<div align="center"><h2>Contato</h2></div>
+<!---<div align="center"><h2>Contato</h2></div>-->
 
-<div align="center" style="display: inline_block"> 
-  <a href="https://www.linkedin.com/in/guilherme-angelo-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+## Contato
+
+<div align="left" style="display: inline_block"> 
   <a href = "mailto:guilherme.angeloetec20@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23E60023?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/guilherme-angelo-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
 <br />
 
-<div align="center"><h2>GitHub Status</h2></div>
-
-<div align="center">
-  <a href="https://github.com/Gui-Angelo-Silva/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gui-Angelo-Silva&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&icon_color=773046&hide_border=true&border_radius=15&bg_color=0d1117&title_color=773046&text_color=8b838d"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui-Angelo-Silva&layout=compact&langs_count=7&theme=transparent&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117&title_color=773046&text_color=8b838d"/>
-</div>
+<!---<div align="center"><h2>GitHub Status</h2></div>-->
 
 ![Snake animation](https://github.com/Gui-Angelo-Silva/Gui-Angelo-Silva/blob/output/github-contribution-grid-snake.svg)
