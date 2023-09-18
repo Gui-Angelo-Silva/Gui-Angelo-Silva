@@ -1,8 +1,21 @@
-<div align="center"><h1>Bem vindo! Eu sou Guilherme Angelo.</h1></div> 
+![Inserir um título](https://github.com/Gui-Angelo-Silva/Gui-Angelo-Silva/assets/100084412/2ca886ca-f701-4695-8319-138f946c8580)
 
-<div align="center" >
-  <h4>Sou formado em Desenvolvimento de Sistemas na ETEC Jales e atualmente cursando Análise e Desenvolvimento de Sistemas - AMS na FATEC Jales. Estou estagiando na Precisão Sistemas.</h4>
-</div>
+<!--<div align="left"><h1>Bem vindo(a)! Eu sou Guilherme Angelo.</h1></div> 
+
+<img width="350" src="https://ouch-cdn2.icons8.com/vZD-nOO0-rKGloPBW0WjLQF-i8hfkpa7QWY_3L4YTGA/rs:fit:684:456/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvMzAx/L2Y1ZWI5ZGEwLTM3/ZWMtNDUxYy1iODNl/LTVjMzc1NGU5NjQx/NC5zdmc.png" align="right">
+-->
+<p align="left" >
+  👨🏽‍🎓 Sou formado em Desenvolvimento de Sistemas na ETEC Jales.
+</p>
+<p align="left" >
+  👨🏽‍💻 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas - AMS na FATEC Jales.
+</p>
+<p align="left" >
+  👨‍💻 Dedico meu tempo livre para aprender coisass novas, sobre programação, história e tecnologias novas utilizadas no mercado atualmente.
+</p>
+<br />
+
+## GitHub Status
 
 <div align="center">
   <a href="https://github.com/Gui-Angelo-Silva/">
@@ -29,16 +42,4 @@
   <a href = "mailto:guilherme.angeloetec20@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23E60023?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
- ![Snake animation](https://github.com/Gui-Angelo-Silva/Gui-Angelo-Silva/blob/output/github-contribution-grid-snake.svg)
-<!--<div align= "center">
-  <p align="center"> <img height="35em" src="https://komarev.com/ghpvc/?username=Gui-Angelo-Silva&label=Visitas%20no%20Perfil&bg_color=0d1117&color=0d4188&style=flattrue&locale=pt-br" alt="Gui-Angelo-Silva" /></p>
-</div>
-
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=1000&color=0000FF&v&center=true&width=1000&lines=+Eu+sou+Nabila+Sampaio%2C;+Técnica+em+Desenvolvimento+de+Sistemas+pela+Etec+Jales.;Cursando+Análise+e+Desenvolvimento+de+Sistemas+na+Fatec.)](https://git.io/typing-svg)
->
-<!--<div align='justify' >
-  <h4>- Cursando Análise e Desenvolvimento de Sistemas - AMS na FATEC Jales.</h4>
-</div>
-<div align='justify'>
-  <h4>- 🧑‍💻 Gostaria de atuar na área de desenvolvimento de software.</h4>
-</div>
+![Snake animation](https://github.com/Gui-Angelo-Silva/Gui-Angelo-Silva/blob/output/github-contribution-grid-snake.svg)
