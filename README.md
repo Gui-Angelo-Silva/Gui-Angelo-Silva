@@ -11,7 +11,7 @@
   👨🏽‍🎓 Sou formado em Desenvolvimento de Sistemas na ETEC Jales.
 </p>
 <p align="left" style="font-size: 40">
-  👨🏽‍💻 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas - AMS na FATEC Jales.
+  👨🏽‍💻 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas - AMS na FATEC Jales e sou estagiário na Precisão Sistemas.
 </p>
 <p align="left" style="font-size: 40">
   👨‍💻 Dedico meu tempo livre para aprender coisass novas, sobre programação, história e tecnologias novas utilizadas no mercado atualmente.
