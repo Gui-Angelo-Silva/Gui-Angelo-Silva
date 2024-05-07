@@ -14,7 +14,7 @@
   👨🏽‍💻 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas - AMS na FATEC Jales e sou estagiário na Precisão Sistemas.
 </p>
 <p align="left" style="font-size: 40">
-  👨‍💻 Dedico meu tempo livre para aprender coisass novas, sobre programação, história e tecnologias novas utilizadas no mercado atualmente.
+  👨‍💻 Dedico meu tempo livre para aprender coisas novas, sobre programação, história e tecnologias novas utilizadas no mercado atualmente.
 </p>
 <br />
 
